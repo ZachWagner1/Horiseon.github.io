@@ -1,1 +1,1 @@
-https://zachwagner1Horiseon.github.io/
+https://zachwagner1.github.io/horieson/
