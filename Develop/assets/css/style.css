@@ -116,18 +116,8 @@ p {
 .content div img {
     max-height: 200px;
 }
-
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-.social-media-marketing h2 {
+/* redundant code deleted by targeting all the <h2> in the content class divs */
+.content div h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
